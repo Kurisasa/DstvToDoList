@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [:mylibrary] C:\Users\KurisaniC\Desktop\DstvToDoList\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.conhea:floatingactionbutton:2.0.2] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-2.0.2.aar\e1fe17c56cf0b5140e07bd8b01c5c4c5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b2d08b5bc69316b6916d734c9a0dad9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\54e37a7cd73b9c00111ea3dd13eba8cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46b82366d9019d22230ccb04786aa6b3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\697f40b697eca67feb43e66469d69885\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a1082cc3db21b499d19928efc30f7b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9f7e40fb1a18d07b0378d7cf3066e661\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\2c091f46053f8c2f07d4a3ee69559466\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ca8f95945308f1bc876e62e6b5e0c7b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b703d8b248a5cc36e42414f3a9b31165\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6731ac8b9460a59b826ecd8c14a269cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d15836930f9edb0a1c7d5554bae137e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4f74302e3d1169aadc7ac7e902f4d86f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\284fbe39d75c0c644e4995c5b9d5d49a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d43d4f4a20a2cb0b31ab16bfe1717fd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\dd6c75253c75bb7c8f74f7ef06256ca1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\bdce043378c8a17fb42b041b5d670a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\99cba3faa24bdeeb8a6fe635d3b2f1c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7426bd99fb809e84aadcf781efbcfd0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e032eeda8b48035e2a792da2dbb2d441\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9c52e2224ca6ace7cdac909357ccdc3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\56480a64c1ef0e69710da85af137ea87\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e892208cb1882d45bf5d3a68adaad7ee\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d0dec319f91e9eeed3bce8471a17ca6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c4ee7a835d0c8980f1e305a99c8189b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.traex.rippleeffect:library:1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\f3813552272ad91d797aac50ecbbe3ac\AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5df6333c0d55cc1ea732ae62047a8d89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d5b03d2c73947099efda87e508d77d19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\85ec51b58759e5286cbf12062ea130a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b8431fba51adc637301abbd5eaab1df7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cf708808bb63d05d3ab27811c537716a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c01f12d976102a9cd679d878c4802722\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8868ad5d805bd77c8b9348ef94fd0226\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d33f72e2644897317e0774834a19ab4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\be8d756a7dc950b95118558e4e2f1a65\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.github.conhea:floatingactionbutton:2.0.2] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-2.0.2.aar\e1fe17c56cf0b5140e07bd8b01c5c4c5\AndroidManifest.xml:9:5-20
+MERGED from [com.github.conhea:floatingactionbutton:2.0.2] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-2.0.2.aar\e1fe17c56cf0b5140e07bd8b01c5c4c5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46b82366d9019d22230ccb04786aa6b3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46b82366d9019d22230ccb04786aa6b3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\56480a64c1ef0e69710da85af137ea87\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\56480a64c1ef0e69710da85af137ea87\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e892208cb1882d45bf5d3a68adaad7ee\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e892208cb1882d45bf5d3a68adaad7ee\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.traex.rippleeffect:library:1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\f3813552272ad91d797aac50ecbbe3ac\AndroidManifest.xml:12:5-20
+MERGED from [com.github.traex.rippleeffect:library:1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\f3813552272ad91d797aac50ecbbe3ac\AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\56480a64c1ef0e69710da85af137ea87\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.simp.kurisanic.mylibrary.activities.ListActivity
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:12:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.simp.kurisanic.mylibrary.activities.CreateActivity
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:20:9-24:20
+	android:label
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:22:13-58
+	android:theme
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:21:13-82
+activity#com.simp.kurisanic.mylibrary.activities.UpdateActivity
+ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:26:9-30:20
+	android:label
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:28:13-58
+	android:theme
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml:27:13-82
+uses-sdk
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+MERGED from [:mylibrary] C:\Users\KurisaniC\Desktop\DstvToDoList\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:mylibrary] C:\Users\KurisaniC\Desktop\DstvToDoList\mylibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.conhea:floatingactionbutton:2.0.2] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-2.0.2.aar\e1fe17c56cf0b5140e07bd8b01c5c4c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.conhea:floatingactionbutton:2.0.2] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-2.0.2.aar\e1fe17c56cf0b5140e07bd8b01c5c4c5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b2d08b5bc69316b6916d734c9a0dad9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b2d08b5bc69316b6916d734c9a0dad9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\54e37a7cd73b9c00111ea3dd13eba8cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\54e37a7cd73b9c00111ea3dd13eba8cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46b82366d9019d22230ccb04786aa6b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\46b82366d9019d22230ccb04786aa6b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\697f40b697eca67feb43e66469d69885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\697f40b697eca67feb43e66469d69885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a1082cc3db21b499d19928efc30f7b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9a1082cc3db21b499d19928efc30f7b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9f7e40fb1a18d07b0378d7cf3066e661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\9f7e40fb1a18d07b0378d7cf3066e661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\2c091f46053f8c2f07d4a3ee69559466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\2c091f46053f8c2f07d4a3ee69559466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ca8f95945308f1bc876e62e6b5e0c7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ca8f95945308f1bc876e62e6b5e0c7b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b703d8b248a5cc36e42414f3a9b31165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\b703d8b248a5cc36e42414f3a9b31165\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6731ac8b9460a59b826ecd8c14a269cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\6731ac8b9460a59b826ecd8c14a269cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d15836930f9edb0a1c7d5554bae137e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d15836930f9edb0a1c7d5554bae137e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4f74302e3d1169aadc7ac7e902f4d86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4f74302e3d1169aadc7ac7e902f4d86f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\284fbe39d75c0c644e4995c5b9d5d49a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\284fbe39d75c0c644e4995c5b9d5d49a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d43d4f4a20a2cb0b31ab16bfe1717fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d43d4f4a20a2cb0b31ab16bfe1717fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\dd6c75253c75bb7c8f74f7ef06256ca1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\dd6c75253c75bb7c8f74f7ef06256ca1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\bdce043378c8a17fb42b041b5d670a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\bdce043378c8a17fb42b041b5d670a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\99cba3faa24bdeeb8a6fe635d3b2f1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\99cba3faa24bdeeb8a6fe635d3b2f1c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7426bd99fb809e84aadcf781efbcfd0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7426bd99fb809e84aadcf781efbcfd0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e032eeda8b48035e2a792da2dbb2d441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e032eeda8b48035e2a792da2dbb2d441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9c52e2224ca6ace7cdac909357ccdc3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9c52e2224ca6ace7cdac909357ccdc3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\56480a64c1ef0e69710da85af137ea87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\56480a64c1ef0e69710da85af137ea87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e892208cb1882d45bf5d3a68adaad7ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e892208cb1882d45bf5d3a68adaad7ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d0dec319f91e9eeed3bce8471a17ca6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\d0dec319f91e9eeed3bce8471a17ca6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c4ee7a835d0c8980f1e305a99c8189b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c4ee7a835d0c8980f1e305a99c8189b2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.traex.rippleeffect:library:1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\f3813552272ad91d797aac50ecbbe3ac\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.traex.rippleeffect:library:1.3] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\library-1.3.aar\f3813552272ad91d797aac50ecbbe3ac\AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5df6333c0d55cc1ea732ae62047a8d89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5df6333c0d55cc1ea732ae62047a8d89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d5b03d2c73947099efda87e508d77d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d5b03d2c73947099efda87e508d77d19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\85ec51b58759e5286cbf12062ea130a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\85ec51b58759e5286cbf12062ea130a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b8431fba51adc637301abbd5eaab1df7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b8431fba51adc637301abbd5eaab1df7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cf708808bb63d05d3ab27811c537716a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cf708808bb63d05d3ab27811c537716a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c01f12d976102a9cd679d878c4802722\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c01f12d976102a9cd679d878c4802722\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8868ad5d805bd77c8b9348ef94fd0226\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\8868ad5d805bd77c8b9348ef94fd0226\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d33f72e2644897317e0774834a19ab4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d33f72e2644897317e0774834a19ab4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\be8d756a7dc950b95118558e4e2f1a65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\KurisaniC\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\be8d756a7dc950b95118558e4e2f1a65\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KurisaniC\Desktop\DstvToDoList\app\src\main\AndroidManifest.xml
