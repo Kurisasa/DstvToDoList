@@ -15,12 +15,12 @@ Database
 SQLite DB
 
 Functionality of the App
- View
- Add
- Search
- Delete
- Update
- Sorts the list alphabetically
+ View,
+ Add,
+ Search,
+ Delete,
+ Update,
+ Sorts the list alphabetically,
  Seek bar based on the completed tasks.
 All these are stored , viewed , Updated and Deleted From Database.
 
