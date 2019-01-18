@@ -33,10 +33,14 @@
         android:id="@+id/checkBox1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/item_desc"
-        android:layout_alignStart="@+id/item_desc"
-        android:layout_marginLeft="344dp"
-        android:layout_marginBottom="-27dp"
+       android:layout_below="@+id/item_duetime"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="25dp"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"
         />
 
     <TextView

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jan 17 16:08:05 CAT 2019
+#Fri Jan 18 09:45:36 CAT 2019
 1.base=C\:\\Users\\KurisaniC\\Desktop\\DstvToDoList\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\out
 2.path=classes.dex
 0.baseType=DIRECTORY

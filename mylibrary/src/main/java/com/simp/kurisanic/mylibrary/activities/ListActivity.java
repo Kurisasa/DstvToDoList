@@ -55,6 +55,7 @@ public class ListActivity extends AppCompatActivity {
     private  ArrayList<Item> allItems = null;
     String totals;
     double total;
+    int workProgress;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -88,26 +89,54 @@ public class ListActivity extends AppCompatActivity {
         // Initialize the textview with '0'.
         //percentage.setText("Done: " + seekBar.getProgress() + "%" );
 
-        seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+//        seekBar.setProgress(0);
+//        seekBar.setMax(100);
+//        seekBar.setProgress(workProgress);
 
-            int progress = 0;
+        seekBar.post(new Runnable() {
+            @Override
+            public void run() {
+
+                if(workProgress > 0){
+                    seekBar.setProgress(workProgress);
+                    seekBar.postDelayed(mProgressRunner, 1000);
+                }else{
+                    seekBar.setProgress(0);
+                }
+
+
+            }
+        });
+        seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+            int progressChangedValue = 0;
 
             @Override
             public void onProgressChanged(SeekBar seekBar, int progresValue, boolean fromUser) {
 
-                int workProgress = (int) total;
-                seekBar.setProgress(workProgress);
+                if(workProgress > 0){
+                    seekBar.setProgress(workProgress);
+                }else{
+                    seekBar.setProgress(0);
+                }
 
             }
 
             @Override
             public void onStartTrackingTouch(SeekBar seekBar) {
-             //   Toast.makeText(getApplicationContext(), "Started tracking seekbar", Toast.LENGTH_SHORT).show();
+//                if(workProgress > 0){
+//                    seekBar.setProgress(workProgress);
+//                }else{
+//                    seekBar.setProgress(0);
+//                }
             }
 
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
-                //percentage.setText("Done:: " + progress + "%");
+                if(workProgress > 0){
+                    seekBar.setProgress(workProgress);
+                }else{
+                    seekBar.setProgress(0);
+                }
             }
 
         });
@@ -118,6 +147,15 @@ public class ListActivity extends AppCompatActivity {
             e.printStackTrace();
         }
 }
+    Runnable mProgressRunner = new Runnable() {
+        @Override
+        public void run() {
+            if (seekBar != null) {
+                seekBar.setProgress(workProgress); // update seekbar
+
+            }
+        }
+    };
 
     @Override
     public void onResume() {
@@ -249,7 +287,10 @@ public class ListActivity extends AppCompatActivity {
                 final double value = allItems.size();
                 final double value1 = selectedItem.size();
                 total = ((value1) / value) * 100;
-                totals = Double.toString(total);
+                workProgress = (int) total;
+                totals = Integer.toString(workProgress);
+
+
                 percentage.setText(totals + "%");
 
         }
