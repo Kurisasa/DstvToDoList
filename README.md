@@ -15,7 +15,7 @@ Database
 SQLite DB
 
 Functionality of the App
- View,
+ View, 
  Add,
  Search,
  Delete,
